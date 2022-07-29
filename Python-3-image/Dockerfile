@@ -11,4 +11,4 @@ echo "**** install pip ****" && \
     if [ ! -e /usr/bin/pip ]; then ln -s pip3 /usr/bin/pip ; fi
 
 ## install projects dependencies
-pip install pipreqs
+#pip install pipreqs
